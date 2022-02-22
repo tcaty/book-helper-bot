@@ -1,0 +1,6 @@
+/.env
+/venv
+.idea/
+__pycache__/
+/utils/shelve_storage/storage
+/errors.txt
